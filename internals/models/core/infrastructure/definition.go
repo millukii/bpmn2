@@ -1,8 +1,8 @@
 package infrastructure
 
 import (
-	"bpmn-validator/models/bpmn"
-	"bpmn-validator/models/core/foundation"
+	"bpmn-validator/internals/models/bpmn"
+	"bpmn-validator/internals/models/core/foundation"
 )
 
 type Definition struct {
