@@ -7,8 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.0.1] - 2021-04-03
 
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
+First approach of the implementation of the standar specification for bpmn2.0.
 
 ### Added
 
@@ -20,3 +19,4 @@ straightforward as possible.
 ### Changed
 
 - [BPMN2-00000003] Internals folder to contains models
+- [BPMN2-00000006] Remove readme logo and description of the project
