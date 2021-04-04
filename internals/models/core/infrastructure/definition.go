@@ -15,7 +15,7 @@ type Definition struct {
 	rootElement []foundation.RootElement
 	bpmnDiagrams []bpmn.BPMNDiagram
 	imports []Import
-	relationships []foundation.RelationShip
+	relationships []foundation.Relationship
 	extension []foundation.Extension
  }
 

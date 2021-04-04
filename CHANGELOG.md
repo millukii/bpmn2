@@ -15,6 +15,7 @@ First approach of the implementation of the standar specification for bpmn2.0.
 - [BPMN2-00000002] Core entities
 - [BPMN2-00000004] Add Readme, Contributing, Todo, Changelog
 - [BPMN2-00000005] Add specification document BPMN 2.0
+- [BPMN2-00000006] Add core entities, infrastructure constructor
 
 ### Changed
 
