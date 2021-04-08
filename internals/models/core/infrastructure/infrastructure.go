@@ -7,8 +7,7 @@ import (
 	"log"
 )
 
-
-
+//Infrastructure: Two elements that are used for both abstract syntax models and diagram models
 type Infrastructure struct {
 	XMLName        xml.Name `xml:"definitions"`
 	Imports         []Import `xml:"import"`
